@@ -7,5 +7,5 @@
 ## Run
 
 ```bash
-    go run .
+go run .
 ```
